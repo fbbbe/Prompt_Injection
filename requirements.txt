@@ -1,0 +1,5 @@
+ollama
+PyYAML
+tqdm
+pandas
+psutil
