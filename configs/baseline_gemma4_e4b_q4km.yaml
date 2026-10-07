@@ -29,7 +29,7 @@ benchmark:
 
   # 처음 테스트할 때 10 정도로 설정
   # 전체 실험은 null
-  max_cases: 100
+  max_cases: 5000
 
 run:
   repeat: 1
